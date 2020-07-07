@@ -15,3 +15,5 @@ My code is inspired by Daniel Shiffman. The changes and errors I have made are m
  [Make a poem: follow this link and click "bug it" on the seed text](https://editor.p5js.org/greggelong/present/Hy8jQ_bTh)
  
 ![diastic explainer](diasticExplain.png)
+
+[Home](https://greggelong.github.io/)
