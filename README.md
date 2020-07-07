@@ -12,5 +12,5 @@ My code is inspired by Daniel Shiffman. The changes and errors I have made are m
     and so on until he had "spelled through" the whole phrase. 
     (There were other rules for line breaks, punctuation, and so on.) 
     The resulting text would be made entirely out of Woolf's words but would have none of the usual English syntax. 
-    
+ [Make a poem: click "bug it" on the seed text](https://editor.p5js.org/greggelong/present/Hy8jQ_bTh)
 ![diastic explainer](diasticExplain.png)
