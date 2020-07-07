@@ -13,7 +13,8 @@ My code is inspired by Daniel Shiffman. The changes and errors I have made are m
     (There were other rules for line breaks, punctuation, and so on.) 
     The resulting text would be made entirely out of Woolf's words but would have none of the usual English syntax. 
     
-Follow the link
+Follow the link below
+
 [Make a poem: follow this link and click "bug it" on the seed text](https://editor.p5js.org/greggelong/present/Hy8jQ_bTh)
  
 ![diastic explainer](diasticExplain.png)
